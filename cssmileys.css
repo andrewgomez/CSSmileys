@@ -1,7 +1,13 @@
+/******************************************************************
+Smiley CSS
+https://github.com/andrewgomez/CSSmileys
+******************************************************************/
 .smiley {
   display: inline-block;
   margin: 0 0 0 .2em;
   font-size: .8em;
+  font-family: Arial, Helvetica;
+  font-weight: bold;
   transform:rotate(90deg) translateX(-.3em); /* W3C */
       -ms-transform:rotate(90deg) translateX(-.3em); /* IE 9 */
       -moz-transform:rotate(90deg) translateX(-.3em); /* Firefox */
@@ -19,6 +25,7 @@
     border-radius: 1.2em;
     margin: 0em -1em -.43em 0em;
     background-color: #ffb700;
+    font-family: Arial, Helvetica;
     background: linear-gradient(to right,  #ffe100 0%,#ffb700 100%); /* W3C */
       background: -moz-linear-gradient(left,  #ffe100 0%, #ffb700 100%); /* FF3.6+ */
       background: -webkit-gradient(linear, left top, right top, color-stop(0%,#ffe100), color-stop(100%,#ffb700)); /* Chrome,Safari4+ */
