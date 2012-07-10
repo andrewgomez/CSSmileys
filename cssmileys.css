@@ -6,7 +6,7 @@ https://github.com/andrewgomez/CSSmileys
   display: inline-block;
   margin: 0 0 0 .2em;
   font-size: .8em;
-  font-family: Times, "Times New Roman";
+  font-family: Arial, Helvetica; /* replace with 'font-family: Times, "Times New Roman";' for "smilier" smiley */
   font-weight: bold;
   transform:rotate(90deg) translateX(-.3em); /* W3C */
       -ms-transform:rotate(90deg) translateX(-.3em); /* IE 9 */
