@@ -1,7 +1,7 @@
 #CSSmileys
 *A super simple CSS class for making your smileys more fun.*
 
-`cssmileys.css` is a stylesheet that includes a single class, `.smiley`, that will make common emoticons more colorful. You can see an example at: `http://cssmileys.andrewgomez.info`. 
+`cssmileys.css` is a stylesheet that includes a single class, `.smiley`, that will make common emoticons more colorful. You can see an example at: [http://cssmileys.andrewgomez.info](http://cssmileys.andrewgomez.info). 
 
 The class works decently well at common sizes on modern browsers for: :), :(, :|, :P, ;), ;P, and :'(.
 
@@ -16,11 +16,11 @@ Hello :). How are you?
 ```
 
 Include the following:
-```
+```html
 Hello <span class="smiley">:)</span>. How are you?
 ```
 
 There are no images whatsoever, so the emoticon should look great at (almost) any size!
 
 ##License
-CSSmileys.css is licensed under the &#9786; license. (http://licence.visualidiot.com/)
+CSSmileys.css is licensed under the [&#9786; license](http://licence.visualidiot.com/).
